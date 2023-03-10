@@ -7,6 +7,7 @@ Requirements
 
 Usage
 -Place your input videos in the same directory as the script.
+
 -Run the script with python video_transition.py.
 -The script will prompt you to enter the file names of the two input videos.
 -The script will display the first video and wait for you to press a key to start the transition.
@@ -16,7 +17,6 @@ Usage
 
 Parameters
 You can adjust the following parameters in the script:
-
 -transition_time: The duration of the transition in seconds. Default is 1 second.
 
 Notes
